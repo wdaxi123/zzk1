@@ -1,0 +1,21 @@
+{
+    "name": "zzk1",
+    "version": "1.0.0",
+    "description": "zzk1",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "gulp dev",
+        "build": "gulp bulid"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wdaxi123/zzk1.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wdaxi123/zzk1/issues"
+    },
+    "homepage": "https://github.com/wdaxi123/zzk1#readme"
+}
